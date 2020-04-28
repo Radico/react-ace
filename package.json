@@ -63,7 +63,7 @@
     "brace"
   ],
   "dependencies": {
-    "brace": "^0.10.0",
+    "brace": "git://github.com/Radico/brace.git#46e39a16538bb536cc3e0bc8b3971411a25d8cab",
     "lodash.isequal": "^4.1.1",
     "prop-types": "^15.5.8"
   },
