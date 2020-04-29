@@ -63,7 +63,7 @@
     "brace"
   ],
   "dependencies": {
-    "brace": "git://github.com/Radico/brace.git#fix_django_syntax_highlighting_in_html_tags",
+    "brace": "file:frontend/vendor/brace-0.10.0-simon-1.tgz",
     "lodash.isequal": "^4.1.1",
     "prop-types": "^15.5.8",
     "react": "^16.13.1",
