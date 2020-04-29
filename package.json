@@ -65,7 +65,9 @@
   "dependencies": {
     "brace": "git://github.com/Radico/brace.git#v0.10.1-django-mode-1",
     "lodash.isequal": "^4.1.1",
-    "prop-types": "^15.5.8"
+    "prop-types": "^15.5.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "peerDependencies": {
     "react": "^0.13.0 || ^0.14.0 || ^15.0.1 || ^16.13.0",

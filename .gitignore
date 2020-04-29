@@ -32,7 +32,7 @@ node_modules
 .idea
 
 # Babel Build
-lib
+# lib
 
 # UMD Build
 dist
