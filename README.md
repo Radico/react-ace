@@ -1,3 +1,11 @@
+# SIMONDATA NOTICE
+
+We had to fork a dependency of this package, [brace](https://github.com/Radico/brace), to fix a bug.  The package.json in this project has been modified to require our forked version of brace.
+
+Our changes to this repo are in the `referenced_fixed_brace` branch.
+
+We serve this package from Artifactory.  Instructions for how to publish a new version to Artifactory are in [confluence](https://simondata.atlassian.net/wiki/spaces/eng/pages/408518703/Contributing+a+Package+in+Artifactory).
+
 # React-Ace
 
 ![logo](https://github.com/securingsincity/react-ace/raw/master/logo.png)
